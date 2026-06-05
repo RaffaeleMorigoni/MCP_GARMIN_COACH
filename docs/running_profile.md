@@ -80,14 +80,13 @@ manual_edit: true
 
 ---
 
-## Pattern settimanale tipico
+## Pattern settimanale (3 sessioni fisse)
 
-| Sessione | Frequenza | Dettaglio |
+| Giorno | Sessione | Dettaglio |
 |---|---|---|
-| **Lungo** | 1×/settimana | Sabato, 12–18 km, Z2 easy |
-| **Easy aerobico** | 1–2×/settimana | 8–10 km, Z2 |
-| **Qualità** | 1×/1-2 settimane | Soglia / fartlek / progressivo |
-| **Recupero/riposo** | giorni restanti | — |
+| **Martedì** | Easy rigenerante | 7–8 km, Z2 lento (6:20–6:40/km), puro recupero attivo |
+| **Giovedì** | Qualità | Fartlek / soglia / progressivo — dipende dalla fase |
+| **Sabato** | Lungo | 14–18 km, Z2 easy o con variazioni |
 
 ---
 
@@ -98,6 +97,9 @@ manual_edit: true
 | 31/05/2026 | Lungo progressivo 16 km (100 min, HR 144 bpm) — sovraccarico polpaccio destro nell'ultimo km |
 | 01–05/06/2026 | Settimana saltata (vita intensa + recupero polpaccio) |
 | 06/06/2026 | Lungo easy puro 15 km schedulato su Garmin (sett. 1 fase base) |
+| 09/06/2026 | Easy aerobico 8 km schedulato (sett. 2 — martedì) |
+| 11/06/2026 | Fartlek 6×1' schedulato (sett. 2 — giovedì qualità, sostituisce easy 9 km) |
+| 13/06/2026 | Lungo easy puro 15 km schedulato (sett. 2 — sabato, consolido) |
 
 ---
 
