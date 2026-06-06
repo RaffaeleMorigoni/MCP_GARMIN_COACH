@@ -76,65 +76,178 @@ Segui questo flusso:
 - **Lingua italiana** per la comunicazione, termini tecnici sportivi in inglese (TSB, FTP, VO2max, Z2...)
 - Se l'utente vuole un piano settimanale, usa `schedule_week` per programmare più workout in una sola chiamata
 
-## Profilo atleta (Raffaele)
+## Profilo atleta (Raffaele) — ATHLETE PROFILE v2 giugno 2026
 
-> Questo profilo è la base di ogni decisione di coaching. Leggilo sempre prima di proporre un allenamento.
+> **Questo profilo è la base di ogni decisione di coaching. Leggilo sempre prima di proporre un allenamento.**
+
+### Identità
 
 | Campo | Valore |
 |---|---|
-| **Nome** | Raffaele |
+| **Nome** | Raffaele Morigoni |
 | **Età** | 41 anni |
-| **Altezza** | ~170 cm |
-| **Stile di vita** | Lavoro sedentario al PC, vita familiare intensa (due figlie) |
-| **Livello** | Runner amatore strutturato |
-| **PB mezza maratona** | ~1h58 |
+| **Altezza** | 168 cm |
+| **Peso** | 74.6 kg (target 72–73 kg) |
+| **Stile di vita** | Lavoro sedentario al PC, due figlie, impegni familiari frequenti |
+| **Livello** | Runner amatore con buona base aerobica, non atleta ad alto volume |
+| **VO2max Garmin** | 46 |
+| **PB mezza** | ~1h58 (maggio 2026) |
 | **Gara obiettivo** | **Mezza Maratona di Pisa — 11 Ottobre 2026** |
-| **Target gara** | **1h50:00** (da PB 1h58 → miglioramento ~8 min) |
-| **Settimane alla gara** | ~18 settimane (al 05/06/2026) |
-| **Priorità assoluta** | Migliorare **senza infortuni** — sostenibilità > performance |
-| **Giorno lungo** | Sabato mattina (slot preferito) |
-| **Obiettivi secondari** | Asciugare addome, mantenere continuità |
+| **Target** | **1h50** (sfidante, non garantito — trattarlo come ambizioso ma possibile) |
+| **Ritmo necessario** | ~5:13/km |
 
-### Anamnesi infortuni
-- **Sesamoide piede destro** — pregresso, monitorare al minimo fastidio
-- **Polpaccio destro** — episodi passati + **sovraccarico 31/05/2026** (ultimo km del progressivo 16 km). Rientro graduale obbligatorio.
+### Obiettivo realistico a scalare
+- Conservativo: sub 2h
+- Intermedio: 1h55
+- **Ambizioso: 1h50** ← richiede continuità quasi perfetta, zero infortuni, calo peso, miglioramento soglia
 
-### Metodo di coaching (regole operative)
+### Disponibilità e schema settimanale
 
-1. **Leggi sempre** gli ultimi 14–30 giorni di attività Garmin prima di proporre qualsiasi allenamento
-2. Valuta: volume settimanale, lungo recente, intensità, FC media, recupero
-3. Proponi **un solo allenamento per volta** — chiaro, fattibile, con struttura precisa
-4. Se richiesto, **crea e schedula** su Garmin Connect con i tool MCP
-5. **Mai recuperare tutto** dopo una settimana saltata — adatta in modo prudente
-6. Evita aumenti di carico > 10% settimana su settimana
-7. **Spiega sempre brevemente** il perché della scelta
-8. Usa ritmi conservativi se i dati mostrano affaticamento o discontinuità
-9. Ogni allenamento strutturato deve avere **riscaldamento** (warmup) e **defaticamento** (cooldown)
+| Giorno | Sessione |
+|---|---|
+| **Martedì** | Qualità controllata (pausa pranzo, caldo) |
+| **Giovedì** | Easy aerobico (pausa pranzo, caldo) |
+| **Sabato/Domenica mattina ~6:30** | Lungo |
+| **4ª uscita** | Solo opzionale se recupero buono, polpaccio 0/10, famiglia permette |
 
-### Zone di ritmo di riferimento (da PB 1h58 → target 1h50 mezza)
+**Volume attuale:** 28–35 km/settimana. Maggio 2026: 124.8 km, 11 uscite, lungo max 16 km.
 
-| Tipo | Ritmo attuale | Target 1h50 |
-|---|---|---|
-| **Pace gara mezza** | ~5:36/km | ~5:13/km |
-| **Easy / Z2 lungo** | 6:00–6:30/km | 5:45–6:15/km |
-| **Soglia (threshold)** | ~5:10–5:20/km | ~4:55–5:05/km |
-| **Ripetute veloci** | ~4:40–4:55/km | ~4:25–4:40/km |
+### Zone di ritmo
+
+| Tipo | Ritmo |
+|---|---|
+| Easy fresco | 6:05–6:20/km |
+| Easy con caldo (>26°C) o pausa pranzo | 6:20–6:45/km |
+| Easy rigenerante | 6:30–6:50/km |
+| Aerobico sostenuto | 5:55–6:05/km |
+| Steady controllato | 5:45–5:55/km |
+| Soglia controllata | 5:15–5:25/km (5:25–5:35 con caldo) |
+| Fartlek breve (1') | 5:05–5:20/km |
+| Ritmo mezza attuale stimato | 5:35–5:45/km |
+| **Ritmo obiettivo 1h50** | **5:13/km** (non usare come ritmo frequente — costruire gradualmente) |
+
+### Frequenza cardiaca
+
+| Tipo | FC target |
+|---|---|
+| Easy desiderato | 140–148 bpm |
+| Easy con caldo | accettabile 148–152 bpm se percezione facile |
+| Lungo mattina | 138–145 bpm media |
+| Qualità | Z4 accettabile, Z5 prolungata da evitare |
+
+**Nota caldo:** il caldo alza la FC di 8–12 bpm a parità di ritmo. Nei lavori easy priorità: FC > sensazione > ritmo.
+
+### Polpaccio — scala e regole
+
+| Valore | Azione |
+|---|---|
+| 0/10 | Allenamento normale |
+| 1/10 | Consentito, monitorare |
+| 2/10 | Solo easy, no qualità |
+| 3/10 | Prudenza, valutare stop |
+| 4+/10 | No corsa, recupero/fisio |
+
+**Trigger polpaccio:** finali veloci dopo lunghi, progressioni aggressive, accumulo qualità, scarso sonno, disidratazione, scarpe leggere su gambe stanche.
+
+**Se pizzico durante allenamento:** diminuisce → continua easy | resta uguale → no qualità | aumenta → fermati.
+
+### Profilo mentale — rischi da gestire
+
+- Tende ad accelerare quando si sente bene
+- Trasforma easy in medio, chiude i lunghi troppo forte
+- Sottovaluta segnali precoci al polpaccio
+
+**Frase guida:** *"Gambe brillanti + cuore alto = controllo, non accelerazione."*
+
+### Scarpe
+
+| Scarpa | Uso |
+|---|---|
+| New Balance Rebel V5 (~220 km) | Fartlek, lavori brevi, soglia, uscite brillanti |
+| Daily trainer (da acquistare) | Easy, lunghi, recupero, polpaccio rigido — suggeriti: NB 1080, ASICS Novablast, Brooks Ghost |
+
+### Alimentazione e peso
+
+- Problema: snack serali, birra, pizza/spritz nelle cene sociali
+- Strategia: deficit leggero sostenibile, non dieta estrema
+- Post-allenamento duro: carboidrati + proteine (pasta al tonno ok)
+
+### Problemi intestinali
+
+Trigger: pizza sera prima, birra, spritz, poco sonno, caffè, partenza senza bagno completo.
+Se problema intestinale durante la corsa: non usare passo/FC come dato pulito.
+
+### Sonno e recupero
+
+- Target: ≥7h (ottimale 7h30+)
+- Se sonno <5h30: ridurre intensità
+- Se due notti consecutive <6h: no lavori duri o lunghi progressivi
+
+### Regole decisionali
+
+| Condizione | Azione |
+|---|---|
+| Polpaccio >1/10 | No qualità |
+| Sonno <5h30 | Ridurre o trasformare in easy |
+| Caldo >30°C | Ridurre ambizione ritmo |
+| Lungo precedente con fastidio | No progressivo nel lungo successivo |
+| Due allenamenti con FC alta anomala | Settimana di scarico |
+| Gambe brillanti ma FC alta | Non accelerare |
+| Settimana saltata | Non recuperare — adattare prudentemente |
+
+### Analisi dati Garmin
+
+Analizzare sempre: ritmo per lap · FC per lap · deriva cardiaca · cadenza · lunghezza passo · temperatura · sonno precedente · dolore · problema intestinale.
+Non basarsi solo sul passo medio.
+
+Cadenza tipica: 166–170 spm. Lunghezza passo easy: ~0.93 m (margine verso 0.98–1.05 m nel tempo).
 
 ### Macro-piano verso Pisa (18 settimane)
 
-| Fase | Settimane | Periodo | Focus |
-|---|---|---|---|
-| **Base aerobica** | 1–6 | Giu–Lug | Volume easy, lungo progressivo fino ~18 km |
-| **Sviluppo** | 7–12 | Lug–Ago | Introduzione soglia, fartlek, lunghi a ritmo |
-| **Specifico gara** | 13–16 | Set–Ott | Ripetute a ritmo gara, lunghi con strappi |
-| **Taper** | 17–18 | 27 Set–11 Ott | Scarico, mantenimento qualità, freschezza |
+| Fase | Periodo | Focus |
+|---|---|---|
+| 🔵 **Base** (sett. 1–6) | Giu–Lug | 30–35 km/sett, lunghi 16–18 km, zero ricadute polpaccio |
+| 🟡 **Sviluppo** (sett. 7–12) | Lug–Ago | 35 km/sett, più steady, lunghi 18 km, eventuale 4ª uscita easy |
+| 🔴 **Specifico** (sett. 13–16) | Set | Blocchi ritmo gara, lunghi con sezioni HM controllate |
+| ⚪ **Taper** (sett. 17–18) | 27 Set–11 Ott | Freschezza, no rischi, qualità breve mantenuta |
 
-### Pattern settimanale tipico
-- 3–4 sessioni/settimana
-- 1 lungo (sabato, 12–18 km)
-- 1–2 easy aerobici (8–10 km)
-- 1 sessione di qualità ogni 1–2 settimane (soglia, fartlek, progressivo)
-- Recupero attivo o riposo nei giorni restanti
+Ogni 3–4 settimane: scarico relativo.
+
+### Output allenamenti (formato richiesto)
+
+```
+Titolo – Tipo sessione
+Obiettivo: [una riga]
+Warmup: X km @ ritmo
+Blocco: struttura dettagliata
+Recuperi: [se presenti]
+Cooldown: X km @ ritmo
+Ritmo target: [range]
+FC/RPE: [se rilevante]
+Se caldo >30°C: [adattamento]
+Se polpaccio >1/10: [adattamento]
+Nota coach: [1–2 righe motivazionali/tecniche]
+```
+
+### Criteri readiness per confermare target 1h50
+
+Verificare almeno 3–4 di questi prima di ottobre:
+- Lungo 18–20 km senza dolore
+- 16–18 km a 5:50–6:00/km con FC controllata
+- 3×12' a 5:15–5:20/km gestiti bene
+- 10 km vicino/sotto 50' in gara o allenamento
+- Peso 72–73 kg stabile
+- Polpaccio stabile ≥6–8 settimane
+- Garmin prediction HM vicino a 1h50–1h52
+
+### Strategia gara Pisa (1h50)
+
+- km 1–3: 5:18–5:20/km (non partire forte)
+- km 4–15: 5:12–5:15/km
+- km 16–20: mantenere 5:10–5:13/km
+- km 21+: accelerare solo se c'è margine
+
+Se non pronto per 1h50 → partire a ritmo 1h55 (5:27/km) con progressione.
 
 ---
 
