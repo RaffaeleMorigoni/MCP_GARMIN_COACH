@@ -96,7 +96,7 @@ manual_edit: true
 |---|---|
 | 31/05/2026 | Lungo progressivo 16 km (100 min, HR 144 bpm) — sovraccarico polpaccio destro nell'ultimo km |
 | 01–05/06/2026 | Settimana saltata (vita intensa + recupero polpaccio) |
-| 06/06/2026 | Lungo easy puro — orologio spento a 6.9 km. Dati parziali: 6:09/km, FC 136 bpm. Resto della corsa completato a sensazione (15 km totali stimati). Polpaccio: da verificare. |
+| 06/06/2026 | Lungo easy puro 15 km completato con fratello. Orologio spento a 6.9 km (dati parziali: 6:09/km, FC 136 bpm). Soggettivamente tutto ok. Polpaccio destro: **1/10** ✅ — nessun problema. Screen completi da integrare. |
 | 09/06/2026 | Easy aerobico 8 km schedulato (sett. 2 — martedì) |
 | 11/06/2026 | Fartlek 6×1' schedulato (sett. 2 — giovedì qualità, sostituisce easy 9 km) |
 | 13/06/2026 | Lungo easy puro 15 km schedulato (sett. 2 — sabato, consolido) |
