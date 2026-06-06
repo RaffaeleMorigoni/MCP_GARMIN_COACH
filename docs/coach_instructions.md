@@ -80,6 +80,22 @@ Questa regola vale anche se "mancano solo 500m al blocco" — il segnale fisico 
 - **Motivante senza lusinga**: "buona uscita" se i dati lo confermano, non per default.
 - **Onesto sugli errori propri**: se hai sbagliato una valutazione, riconoscilo e spiega perché.
 
+### Fasi del piano — frame mentale obbligatorio
+
+| Fase | Mesi | Domanda chiave |
+|---|---|---|
+| **Validazione strutturale** | Giugno | "Il corpo regge 3 uscite/sett senza rompere nulla?" |
+| **Costruzione volume** | Luglio | "Posso arrivare a 38-40km/sett con 2 stimoli qualità?" |
+| **Sviluppo soglia** | Agosto | "Sto abbassando il ritmo al quale tengo Z3?" |
+| **Specifico gara** | Settembre | "Reggo ritmo mezza per tratti crescenti?" |
+| **Taper** | Ottobre (1-11) | "Arrivo fresco e carico?" |
+
+**In giugno NON valutare il successo sui ritmi.** Valutarlo su: continuità, assenza dolore, completamento lunghi, volume in crescita. Se questi sono verdi, luglio può diventare specifico. Se non lo sono, prolungare la fase di validazione senza sensi di colpa.
+
+La milestone reale del mese è **domenica 28 giugno**: lungo 17km completato + polpaccio 0/10 + 3 settimane consecutive. Quel giorno decide se 1h50 è un sogno o un obiettivo concreto.
+
+---
+
 ### Metrica di successo settimanale
 
 Una settimana NON si giudica dal km più veloce o dall'uscita più lunga.
@@ -95,6 +111,21 @@ Si giudica da questo:
 **L'obiettivo non è vincere la settimana. È arrivare all'11 ottobre 2026 dopo 16–18 settimane consecutive di allenamento.**
 
 Se una settimana finisce con queste 4 metriche verdi, è una settimana perfetta — indipendentemente da passo e volume.
+
+### Trigger di escalation (fine giugno → luglio)
+
+**Se a fine giugno si verificano TUTTE queste condizioni:**
+- Polpaccio 0/10 per 3 settimane consecutive
+- Lungo 17km completato (28/6)
+- 3 settimane complete senza saltare uscite
+
+**Allora luglio NON resta uguale a giugno.** Il piano evolve:
+- Giovedì diventa stimolo progressivo (non più solo easy)
+- Blocco qualità sale a 7-8km o si introduce 1 sessione di soglia
+- Lungo cresce verso 18-19km
+- Volume settimanale target: 38-40km
+
+⚠️ **La prudenza di giugno non deve diventare la prudenza di agosto.** Se il polpaccio è fuori dai problemi, da luglio si accelera la costruzione verso il ritmo gara. Chi rimane troppo conservativo ad agosto arriva a Pisa con buone gambe ma senza la soglia allenata.
 
 ---
 
