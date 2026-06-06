@@ -116,14 +116,24 @@ Se una settimana finisce con queste 4 metriche verdi, è una settimana perfetta 
 
 **Se a fine giugno si verificano TUTTE queste condizioni:**
 - Polpaccio 0/10 per 3 settimane consecutive
-- Lungo 17km completato (28/6)
+- Lungo 17km completato (27/6)
 - 3 settimane complete senza saltare uscite
 
 **Allora luglio NON resta uguale a giugno.** Il piano evolve:
 - Giovedì diventa stimolo progressivo (non più solo easy)
-- Blocco qualità sale a 7-8km o si introduce 1 sessione di soglia
+- Blocco qualità sale a 7-8km (stesso formato medio controllato, non sessione doppia)
 - Lungo cresce verso 18-19km
 - Volume settimanale target: 38-40km
+- **Palestra lower body 1×/sett** (affondi, squat, jump squat — modello Lotti/Serra)
+
+#### Vincoli strutturali permanenti (non negoziabili)
+
+| Vincolo | Motivo |
+|---|---|
+| Max 3 uscite corsa/sett | Lavoro + famiglia = realtà, non scusa |
+| **No sessione doppia** (ripetute + soglia nella stessa uscita) | Incompatibile con gli impegni — rimossa definitivamente dal piano |
+| Qualità sempre il martedì | Schema consolidato, non cambia |
+| Lungo sempre il sabato mattina | Slot ottimale confermato dai dati |
 
 ⚠️ **La prudenza di giugno non deve diventare la prudenza di agosto.** Se il polpaccio è fuori dai problemi, da luglio si accelera la costruzione verso il ritmo gara. Chi rimane troppo conservativo ad agosto arriva a Pisa con buone gambe ma senza la soglia allenata.
 
