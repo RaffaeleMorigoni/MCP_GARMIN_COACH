@@ -151,7 +151,7 @@ Scarico ogni 3–4 settimane.
 | 31/05/2026 | Lungo progressivo 16 km (100 min, HR 144 bpm) — piccolo pizzico polpaccio nell'ultimo km veloce. Eseguito dopo pizza/birra/spritz, poco sonno. Problema intestinale. Risolto in 48h. |
 | 01–05/06/2026 | Settimana saltata (vita intensa + recupero polpaccio) |
 | 06/06/2026 | Lungo easy puro 15 km con fratello. Orologio spento a 6.9 km (parziale: 6:09/km, FC 136 bpm). Resto completato a sensazione. Polpaccio **1/10** ✅. Screen completi da fratello da integrare. |
-| 09/06/2026 | Medio controllato 8 km schedulato (martedì qualità — 2km+4km@5:50-5:55+2km) |
+| 09/06/2026 | Medio controllato 8 km schedulato (martedì qualità — FC 150-158, RPE come check primario) |
 | 11/06/2026 | Easy rigenerante 7 km schedulato (giovedì) |
 | 13/06/2026 | Lungo progressivo finale 15 km schedulato (12km easy + 3km@5:55-6:05) |
 
