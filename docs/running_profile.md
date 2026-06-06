@@ -151,9 +151,16 @@ Scarico ogni 3–4 settimane.
 | 31/05/2026 | Lungo progressivo 16 km (100 min, HR 144 bpm) — piccolo pizzico polpaccio nell'ultimo km veloce. Eseguito dopo pizza/birra/spritz, poco sonno. Problema intestinale. Risolto in 48h. |
 | 01–05/06/2026 | Settimana saltata (vita intensa + recupero polpaccio) |
 | 06/06/2026 | Lungo easy puro 15 km con fratello. Orologio spento a 6.9 km (parziale: 6:09/km, FC 136 bpm). Resto completato a sensazione. Polpaccio **1/10** ✅. Screen completi da fratello da integrare. |
-| 09/06/2026 | Medio controllato 8 km schedulato (martedì qualità — FC 150-158, RPE come check primario) |
-| 11/06/2026 | Easy rigenerante 7 km schedulato (giovedì) |
-| 13/06/2026 | Lungo progressivo finale 15 km schedulato (12km easy + 3km@5:55-6:05) |
+| 09/06/2026 | Medio controllato 8 km schedulato (martedì qualità — FC 150-158, RPE come check primario) · workoutId=1591268649 |
+| 11/06/2026 | Easy rigenerante 7 km schedulato (giovedì) · workoutId=1591259882 |
+| 13/06/2026 | Lungo easy flat 15 km schedulato (progressione solo se gio polp=0/10) · workoutId=1572525578 |
+| 17/06/2026 | **PIANIFICATO** Medio controllato 9km (2WU+5@5:50-5:55+2CD) · workoutId=1591273738 · scheduleId=1672608481 |
+| 19/06/2026 | **PIANIFICATO** Easy rigenerante 8km · workoutId=1591273748 · scheduleId=1672608492 |
+| 21/06/2026 | **PIANIFICATO** Lungo con progressione 16km (13easy+3@5:55-6:05) · workoutId=1591273763 · scheduleId=1672608500 |
+| 24/06/2026 | **PIANIFICATO** Medio controllato 9km (2WU+5@5:48-5:55+2CD) · workoutId=1591273775 · scheduleId=1672608505 |
+| 26/06/2026 | **PIANIFICATO** Easy 8km · workoutId=1591273798 · scheduleId=1672608514 |
+| 28/06/2026 | **PIANIFICATO** Lungo con progressione 17km (14easy+3@5:50-6:00) · workoutId=1591273806 · scheduleId=1672608530 |
+| 30/06/2026 | **PIANIFICATO** Easy 8km (ponte verso luglio) · workoutId=1591273821 · scheduleId=1672608537 |
 
 # Running — Profilo atleta
 
