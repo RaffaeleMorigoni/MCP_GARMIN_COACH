@@ -281,6 +281,36 @@ Nota coach: [1-2 righe — lettura critica, cosa osservare, rischio specifico]
 
 **Se pizzico durante allenamento:** diminuisce → continua easy | resta uguale → no qualità | aumenta → fermati.
 
+### Routine prevenzione polpaccio (obbligatoria)
+
+**Quando farla**: la sera prima di ogni allenamento, oppure dopo colazione nei giorni di riposo. **Non fare il giorno stesso dell'allenamento se porti già carico.**
+
+**Durata**: 10-12 minuti. Non ha scuse di tempo.
+
+#### Esercizi (in ordine)
+
+| # | Esercizio | Reps/Set | Note |
+|---|---|---|---|
+| 1 | **Heel drop gastrocnemio** (gamba tesa) | 3×15 per gamba | Su gradino, fase eccentrica 3 sec. Sale con 2 piedi, scende con 1. |
+| 2 | **Heel drop soleo** (gamba piegata ~30°) | 3×15 per gamba | Stessa logica ma ginocchio flesso — colpisce il soleo in profondità. |
+| 3 | **Calf raise isometrico** | 3×20 sec per gamba | Tieni il punto alto della punta di piede. No rimbalzo. |
+
+**Progressione**: quando 3×15 diventa facile (3-4 settimane), aggiungi uno zaino con 5kg. Non aumentare prima.
+
+#### Regole
+
+- **Dolore sordo durante = normale.** Bruciore muscolare = normale. Dolore acuto o nel tendine = fermati.
+- **Non saltare il soleo** (esercizio 2): è il muscolo che cede per primo nei runner amatori, soprattutto con caldo e gambe cariche.
+- Se polpaccio è a 1/10 quel giorno: fai solo gli isometrici (esercizio 3), niente eccentrico.
+- Se polpaccio è a 2+/10: solo stretching passivo, niente carico.
+
+#### Stretching finale (2 min)
+
+1. Polpaccio dritto al muro — 45 sec per lato
+2. Polpaccio con ginocchio piegato — 45 sec per lato
+
+**Ricordati**: il 31/05 il pizzico è arrivato senza preavviso nell'ultimo km di un progressivo. La routine eccentrica è l'unica cosa che riduce strutturalmente quel rischio nel tempo.
+
 ### Profilo mentale — rischi da gestire
 
 - Tende ad accelerare quando si sente bene
