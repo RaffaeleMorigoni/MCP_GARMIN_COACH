@@ -4,10 +4,156 @@ title: Running — Profilo atleta e piano allenamento
 kind: profile
 category: Sport
 module: personal
-generated_at: 2026-06-05T16:25:00Z
+generated_at: 2026-06-06T09:53:00Z
 generator_model: claude-sonnet-4-6
 manual_edit: true
 ---
+
+# Running — Profilo atleta (Raffaele Morigoni)
+> v2 — aggiornato 06/06/2026 con profilo completo da ChatGPT coaching
+
+## Identità
+
+| Campo | Valore |
+|---|---|
+| **Nome** | Raffaele Morigoni |
+| **Età** | 41 anni · maschio |
+| **Altezza / Peso** | 168 cm / 74.6 kg (target 72–73 kg) |
+| **Stile di vita** | Lavoro sedentario al PC, due figlie, impegni familiari frequenti |
+| **Livello** | Runner amatore, buona base aerobica, non atleta ad alto volume |
+| **VO2max Garmin** | 46 |
+| **Dispositivo** | Garmin Connect |
+
+---
+
+## Obiettivo gara
+
+| Campo | Valore |
+|---|---|
+| **Gara** | Mezza Maratona di Pisa |
+| **Data** | **11 Ottobre 2026** |
+| **PB attuale** | ~1h58 (maggio 2026) |
+| **Target** | **1h50** — ambizioso ma possibile |
+| **Ritmo necessario** | ~5:13/km |
+
+**Obiettivi a scalare:** conservativo sub 2h · intermedio 1h55 · **ambizioso 1h50**
+1h50 richiede: continuità quasi perfetta + zero infortuni + calo peso + miglioramento soglia.
+
+---
+
+## Zone di ritmo
+
+| Tipo | Ritmo |
+|---|---|
+| Easy fresco | 6:05–6:20/km |
+| Easy caldo / pausa pranzo | 6:20–6:45/km |
+| Easy rigenerante | 6:30–6:50/km |
+| Aerobico sostenuto | 5:55–6:05/km |
+| Steady controllato | 5:45–5:55/km |
+| Soglia controllata | 5:15–5:25/km (5:25–5:35 con caldo) |
+| Fartlek 1' | 5:05–5:20/km |
+| Ritmo mezza attuale | ~5:35–5:45/km |
+| **Ritmo target 1h50** | **5:13/km** ← costruire gradualmente |
+
+**FC target:** easy 140–148 bpm · lungo mattina 138–145 bpm · caldo accettabile 148–152 bpm.
+Il caldo alza la FC di 8–12 bpm a parità di ritmo.
+
+---
+
+## Anamnesi infortuni
+
+| Zona | Note |
+|---|---|
+| **Sesamoide piede destro** | Pregresso — monitorare |
+| **Polpaccio interno/mediale destro** | Area critica. Storico con fisioterapia. Sovraccarico 31/05/2026 (ultimo km progressivo 16 km), risolto in 48h. |
+
+**Scala dolore polpaccio:**
+0/10 normale · 1/10 monitorare · 2/10 solo easy · 3/10 valutare stop · 4+/10 no corsa
+
+**Trigger:** finali veloci, progressioni aggressive, accumulo qualità, poco sonno, disidratazione, scarpe leggere su gambe stanche.
+
+---
+
+## Disponibilità e schema settimanale
+
+| Giorno | Sessione |
+|---|---|
+| **Martedì** | Qualità controllata (pausa pranzo, caldo) |
+| **Giovedì** | Easy aerobico |
+| **Sabato ~6:30** | Lungo |
+| **4ª uscita** | Opzionale — solo se recupero ottimo, polpaccio 0/10 |
+
+**Volume:** 28–35 km/settimana · Maggio 2026: 124.8 km, 11 uscite.
+
+---
+
+## Scarpe
+
+| Scarpa | Km | Uso |
+|---|---|---|
+| New Balance Rebel V5 | ~220 km | Fartlek, soglia, uscite brillanti |
+| Daily trainer (da acquistare) | — | Easy, lunghi, recupero — NB 1080 / ASICS Novablast / Brooks Ghost |
+
+---
+
+## Alimentazione e peso
+
+- Target: 72–73 kg (da 74.6 kg)
+- Problemi ricorrenti: snack serali, birra, pizza/spritz in cene sociali
+- Strategia: deficit leggero e sostenibile, no restrizioni estreme
+- Post-allenamento duro: carboidrati + proteine (pasta al tonno ok)
+
+---
+
+## Macro-piano verso Pisa (18 settimane da 05/06/2026)
+
+| Fase | Periodo | Focus |
+|---|---|---|
+| 🔵 **Base** (sett. 1–6) | Giu–Lug | 30–35 km/sett, lunghi 16–18 km, zero ricadute |
+| 🟡 **Sviluppo** (sett. 7–12) | Lug–Ago | 35 km/sett, più steady, lunghi 18 km |
+| 🔴 **Specifico** (sett. 13–16) | Settembre | Blocchi ritmo gara, lunghi con sezioni HM |
+| ⚪ **Taper** (sett. 17–18) | 27 Set–11 Ott | Freschezza, no rischi |
+
+Scarico ogni 3–4 settimane.
+
+---
+
+## Criteri readiness 1h50 (verificare prima di ottobre)
+
+- [ ] Lungo 18–20 km senza dolore
+- [ ] 16–18 km a 5:50–6:00/km con FC controllata
+- [ ] 3×12' a 5:15–5:20/km gestiti bene
+- [ ] 10 km vicino/sotto 50'
+- [ ] Peso 72–73 kg stabile
+- [ ] Polpaccio stabile ≥6–8 settimane
+- [ ] Garmin prediction HM ~1h50–1h52
+
+---
+
+## Workout ricorrenti su Garmin Connect
+
+| ID | Nome |
+|---|---|
+| 1572525578 | Lungo easy puro · 15 km · ~1h35 |
+| 1582129354 | Easy aerobico · 8 km · ~50 min |
+| 1582130735 | Lungo progressivo leggero · 16 km · ~1h40 |
+| 1589049985 | Soglia controllata 4×5' |
+| 1576735168 | Soglia controllata 3×6' · 10 km · ~60 min |
+| 1572523801 | Fartlek 6×1' · 9 km · ~55 min |
+| 1590697566 | Easy aerobico · 9 km · ~55 min |
+
+---
+
+## Log eventi
+
+| Data | Evento |
+|---|---|
+| 31/05/2026 | Lungo progressivo 16 km (100 min, HR 144 bpm) — piccolo pizzico polpaccio nell'ultimo km veloce. Eseguito dopo pizza/birra/spritz, poco sonno. Problema intestinale. Risolto in 48h. |
+| 01–05/06/2026 | Settimana saltata (vita intensa + recupero polpaccio) |
+| 06/06/2026 | Lungo easy puro 15 km con fratello. Orologio spento a 6.9 km (parziale: 6:09/km, FC 136 bpm). Resto completato a sensazione. Polpaccio **1/10** ✅. Screen completi da fratello da integrare. |
+| 09/06/2026 | Fartlek 6×1' schedulato (qualità — martedì corretto) |
+| 11/06/2026 | Easy aerobico 8 km schedulato (giovedì easy — corretto) |
+| 13/06/2026 | Lungo easy puro 15 km schedulato (consolido sett. 2) |
 
 # Running — Profilo atleta
 
